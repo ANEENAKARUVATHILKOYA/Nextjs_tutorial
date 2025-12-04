@@ -9,7 +9,7 @@ const navLink = [
    {name:"forgot-password", href:"/forgot-password"}
 ];
 
-
+   
 export default function Authlayout({children}:
     {children: React.ReactNode}
 ){
